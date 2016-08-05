@@ -1,0 +1,33 @@
+_repo: Across-the-Years_6991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Porter, Eleanor H. (Eleanor Hodgman)
+    alias: Porter, Eleanor Hodgman
+    birthdate: 1868
+    deathdate: 1920
+    gutenberg_agent_id: '200'
+    url: http://www.gutenberg.org/2009/agents/200
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_H._Porter
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: When father and mother rebelled -- Jupiter Ann -- The Axminster path
+  -- Phineas and the motor car -- The most wonderful woman -- The price of a pair
+  of shoes -- The long road -- A couple of capitalists -- In the footsteps of Katy
+  -- The bridge across the years -- For Jimmy -- A summons home -- The black silk
+  gowns -- A belated honeymoon -- When Aunt Abby waked up -- Wristers for three --
+  The giving thanks of Cyrus and Huldah -- A New England idol.
+title: Across the Years
+url: http://www.gutenberg.org/ebooks/6991
